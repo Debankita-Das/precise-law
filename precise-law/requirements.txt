@@ -1,0 +1,7 @@
+flask
+requests
+Werkzeug
+Jinja2
+pandas
+google-cloud-translate
+vertexai 
